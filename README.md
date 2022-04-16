@@ -233,6 +233,12 @@ class Net(nn.Module):
 3. **运行结果展示**
 
 <div  align="center">    
+<img src="https://github.com/toygerse/MinistCNN/blob/master/LeNet-5/Lenet.png" alt="LeNet loss"  align="middle" />  
+  
+  <div align="center"><I>LeNet loss</I></div>
+</div>  
+
+<div  align="center">    
 <img src="https://github.com/toygerse/MinistCNN/blob/master/LeNet-5/Lenet_trainaccuracy.png" alt="LeNet准确率"  align="middle" />  
   
   <div align="center"><I>LeNet训练准确率</I></div>
@@ -334,6 +340,12 @@ class Net(nn.Module):
 ```
 
 3. **运行结果展示**
+
+<div  align="center">    
+<img src="https://github.com/toygerse/MinistCNN/blob/master/ResNet/resnet.png" alt="RseNet loss"  align="middle" />  
+  
+  <div align="center"><I>RseNet loss</I></div>
+</div>  
 
 <div  align="center">    
 <img src="https://github.com/toygerse/MinistCNN/blob/master/ResNet/resnet_trainaccuracy.png" alt="RseNet训练准确率"  align="middle" />  
